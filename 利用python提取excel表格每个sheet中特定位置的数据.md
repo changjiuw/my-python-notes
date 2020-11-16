@@ -81,7 +81,7 @@ input("按回车键退出")
 
 然鹅，怎么让没有编程基础的同学都用上这个程序呢？这时候就要把它封装成windows的应用程序。
 
-为此我们需要用到第三方库Pyinstaller，具体教程参考[这位答主的文章](https://zhuanlan.zhihu.com/p/237581789)，最终运行结果如图所示。
+为此我们需要用到第三方库Pyinstaller，具体教程参考[这位答主的文章](https://zhuanlan.zhihu.com/p/61965739)，最终运行结果如图所示。
 
 ![运行结果](./result.png)
 
